@@ -1,8 +1,8 @@
-# Personal Site
+# Templates-Angular17-Base
 
-## Web App ([site](https://david-rachwalik.github.io), [repo](https://github.com/david-rachwalik/david-rachwalik.github.io))
+## Web App ([repo](https://github.com/david-rachwalik/Templates-Angular17-Base))
 
-Personal site for hobbies, aspirations, game news, game design, engine info, and patch notes.
+Template baseline for Angular v17 web application
 
 ### Project Commands Used (global)
 
@@ -11,6 +11,6 @@ Install linting (ESLint) & formatting (Prettier)
 ```bash
 npm i -D eslint prettier
 npm i -D eslint-config-prettier eslint-plugin-prettier
-npm i -D eslint-plugin-import eslint-config-airbnb-base eslint-config-airbnb-typescript
+npm i -D eslint-config-airbnb-base eslint-plugin-import eslint-config-airbnb-typescript
 npm i -D @typescript-eslint/eslint-plugin @typescript-eslint/parser
 ```
